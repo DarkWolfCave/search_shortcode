@@ -20,8 +20,6 @@ Anleitung unter: [Shortcodes in WordPress suchen](https://darkwolfcave.de/shortc
 
 ## Authors
 
-Contributors names and contact info
-
 DarkWolfCave
 [@DarkWolfCave](https://discord.gg/neyGWMUdjQ)
 
